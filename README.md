@@ -1,6 +1,6 @@
 # ConcentrationGame
 
-This assignment was to create a 'Concentration Game' clone, using what we learned about HTML, CSS, and JavaScript.
+This Udacity assignment was to create a 'Concentration Game' clone, using what we learned about HTML, CSS, and JavaScript.
 
 ### How the game is played:
 
